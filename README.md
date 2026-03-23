@@ -25,5 +25,5 @@ Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-<img width="1448" height="624" alt="Screenshot 2026-03-23 235138" src="https://github.com/user-attachments/assets/d020a9cc-4204-46f7-b5de-d0bea53c0fda" />
+<img width="1382" height="600" alt="Screenshot 2026-03-23 235634" src="https://github.com/user-attachments/assets/34ccf747-0275-4fc5-b8a2-14cb1919813e" />
 
